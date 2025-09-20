@@ -43,9 +43,7 @@
 ### 📊 GitHub статистика  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kseniia-dev&show_icons=true&theme=radical" alt="github stats" />
-  <a href="https://mail.google.com/mail/?view=cm&to=kseniamoroz777@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kseniia-dev&layout=compact&theme=radical" alt="top langs" />
 </p>  
 
 ---
