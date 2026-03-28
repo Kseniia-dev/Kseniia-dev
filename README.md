@@ -1,15 +1,4 @@
-# Привет, я Ксения 👋  
-
-💻 Начинающий Python-разработчик | 🌱 Учусь и создаю проекты | 🚀 Хочу попасть в IT  
-
----
-
-### 👩‍💻 Немного обо мне
-🎓 Осваиваю **Python** и веб-разработку (Django, aiogram, HTML, SQL, PostgreSQL, MongoDB)\
-🌿 Есть опыт работы с ООП и инструментами для баз данных (DBeaver)\
-🔧 Уже делала такие проекты: Telegram-боты, веб-приложения, учебные игры  
-📚 Люблю учиться новому и быстро вникаю в технологии  
-✨ Ищу первую работу, чтобы расти в команде и делать крутые продукты 
+💻 Python-разработчик
 
 ---
 
@@ -26,32 +15,14 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 
-</p>  
-
----
-
-### 📌 Мои проекты
-📰 [**NewsPortal**](https://github.com/Kseniia250/NewsPortal) — новостной сайт на Django (система пользователей, статьи, комментарии).  
-🤖 [**RecipesBot**](https://github.com/Kseniia250/RecipesBot) — Telegram-бот с рецептами на `aiogram`, парсинг + перевод.  
-💸 [**CurrencyBot**](https://github.com/Kseniia250/CurrencyBot) — Telegram-бот для конвертации валют (синхронный).  
-🎮 [**SeaBattle**](https://github.com/Kseniia250/SeaBattle) — терминальная игра «Морской бой» на Python.  
-⭕ [**Tic-Tac-Toe-Game**](https://github.com/Kseniia250/Tic-Tac-Toe-Game) — терминальная игра «Крестики-нолики».  
-
-
----
-
-### 📊 GitHub статистика  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kseniia-dev&show_icons=true&theme=radical" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kseniia-dev&layout=compact&theme=radical" alt="top langs" />
-</p>  
+</p>   
 
 ---
 
 ### 🌍 Где меня найти  
 <p align="left">
-  <a href="https://t.me/brooomie"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://mail.google.com/mail/?view=cm&to=kseniamoroz777@gmail.com">
+  <a href="https://t.me/meow_meoushka"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&to=km9208477@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>  
